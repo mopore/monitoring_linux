@@ -29,5 +29,3 @@ HTTP-Method: Get
 Telegraf Dashboard ID for Grafana to be imported: 
 System overall and Docker: 12224
 Docker specific: 1150
-
-Use stop.sh to stop and remove everything.
